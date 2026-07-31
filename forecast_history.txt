@@ -1,0 +1,612 @@
+==== Paris ====
+Forecast for Paris:
+
+Time: 2025-04-22T00:00
+  Temp: 10.7°C
+  Precipitation: 0.00 mm
+  Wind: 4.7 km/h
+  Humidity: 88%
+
+Time: 2025-04-22T01:00
+  Temp: 10.2°C
+  Precipitation: 0.00 mm
+  Wind: 4.5 km/h
+  Humidity: 88%
+
+Time: 2025-04-22T02:00
+  Temp: 9.7°C
+  Precipitation: 0.00 mm
+  Wind: 3.3 km/h
+  Humidity: 89%
+
+Time: 2025-04-22T03:00
+  Temp: 9.2°C
+  Precipitation: 0.00 mm
+  Wind: 2.6 km/h
+  Humidity: 89%
+
+Time: 2025-04-22T04:00
+  Temp: 8.9°C
+  Precipitation: 0.00 mm
+  Wind: 1.8 km/h
+  Humidity: 90%
+
+
+------------------------------
+
+==== Ikeja ====
+Forecast for Ikeja:
+
+Time: 2025-04-22T00:00
+  Temp: 28.8°C
+  Precipitation: 0.00 mm
+  Wind: 7.4 km/h
+  Humidity: 83%
+
+Time: 2025-04-22T01:00
+  Temp: 28.7°C
+  Precipitation: 0.00 mm
+  Wind: 7.1 km/h
+  Humidity: 84%
+
+Time: 2025-04-22T02:00
+  Temp: 28.6°C
+  Precipitation: 0.00 mm
+  Wind: 6.9 km/h
+  Humidity: 85%
+
+Time: 2025-04-22T03:00
+  Temp: 28.4°C
+  Precipitation: 0.00 mm
+  Wind: 5.6 km/h
+  Humidity: 86%
+
+Time: 2025-04-22T04:00
+  Temp: 28.3°C
+  Precipitation: 0.00 mm
+  Wind: 5.9 km/h
+  Humidity: 87%
+
+
+------------------------------
+
+==== Ikeja ====
+Forecast for Ikeja:
+
+Time: 2025-04-22T00:00
+  Temp: 28.8°C
+  Precipitation: 0.00 mm
+  Wind: 7.4 km/h
+  Humidity: 83%
+
+Time: 2025-04-22T01:00
+  Temp: 28.7°C
+  Precipitation: 0.00 mm
+  Wind: 7.1 km/h
+  Humidity: 84%
+
+Time: 2025-04-22T02:00
+  Temp: 28.6°C
+  Precipitation: 0.00 mm
+  Wind: 6.9 km/h
+  Humidity: 85%
+
+Time: 2025-04-22T03:00
+  Temp: 28.4°C
+  Precipitation: 0.00 mm
+  Wind: 5.6 km/h
+  Humidity: 86%
+
+Time: 2025-04-22T04:00
+  Temp: 28.3°C
+  Precipitation: 0.00 mm
+  Wind: 5.9 km/h
+  Humidity: 87%
+
+
+------------------------------
+
+==== Ikeja ====
+Forecast for Ikeja:
+
+Time: 2025-04-22T00:00
+  Temp: 28.8°C
+  Precipitation: 0.00 mm
+  Wind: 7.4 km/h
+  Humidity: 83%
+
+Time: 2025-04-22T01:00
+  Temp: 28.7°C
+  Precipitation: 0.00 mm
+  Wind: 7.1 km/h
+  Humidity: 84%
+
+Time: 2025-04-22T02:00
+  Temp: 28.6°C
+  Precipitation: 0.00 mm
+  Wind: 6.9 km/h
+  Humidity: 85%
+
+Time: 2025-04-22T03:00
+  Temp: 28.4°C
+  Precipitation: 0.00 mm
+  Wind: 5.6 km/h
+  Humidity: 86%
+
+Time: 2025-04-22T04:00
+  Temp: 28.3°C
+  Precipitation: 0.00 mm
+  Wind: 5.9 km/h
+  Humidity: 87%
+
+
+------------------------------
+
+==== Ikeja ====
+Forecast for Ikeja:
+
+Time: 2025-04-22T00:00
+  Temp: 28.8°C
+  Precipitation: 0.00 mm
+  Wind: 7.4 km/h
+  Humidity: 83%
+
+Time: 2025-04-22T01:00
+  Temp: 28.7°C
+  Precipitation: 0.00 mm
+  Wind: 7.1 km/h
+  Humidity: 84%
+
+Time: 2025-04-22T02:00
+  Temp: 28.6°C
+  Precipitation: 0.00 mm
+  Wind: 6.9 km/h
+  Humidity: 85%
+
+Time: 2025-04-22T03:00
+  Temp: 28.4°C
+  Precipitation: 0.00 mm
+  Wind: 5.6 km/h
+  Humidity: 86%
+
+Time: 2025-04-22T04:00
+  Temp: 28.3°C
+  Precipitation: 0.00 mm
+  Wind: 5.9 km/h
+  Humidity: 87%
+
+
+------------------------------
+
+==== Monaco ====
+Forecast for Monaco:
+
+Time: 2025-04-22T00:00
+  Temp: 15.2°C
+  Precipitation: 0.00 mm
+  Wind: 6.8 km/h
+  Humidity: 68%
+
+Time: 2025-04-22T01:00
+  Temp: 15.1°C
+  Precipitation: 0.00 mm
+  Wind: 7.3 km/h
+  Humidity: 69%
+
+Time: 2025-04-22T02:00
+  Temp: 15.1°C
+  Precipitation: 0.00 mm
+  Wind: 9.0 km/h
+  Humidity: 68%
+
+Time: 2025-04-22T03:00
+  Temp: 15.0°C
+  Precipitation: 0.00 mm
+  Wind: 9.1 km/h
+  Humidity: 68%
+
+Time: 2025-04-22T04:00
+  Temp: 14.9°C
+  Precipitation: 0.00 mm
+  Wind: 8.6 km/h
+  Humidity: 68%
+
+
+------------------------------
+
+==== Berlin ====
+Forecast for Berlin:
+
+Time: 2025-04-22T00:00
+  Temp: 11.5°C
+  Precipitation: 0.00 mm
+  Wind: 6.0 km/h
+  Humidity: 90%
+
+Time: 2025-04-22T01:00
+  Temp: 11.5°C
+  Precipitation: 0.00 mm
+  Wind: 1.1 km/h
+  Humidity: 88%
+
+Time: 2025-04-22T02:00
+  Temp: 11.0°C
+  Precipitation: 0.00 mm
+  Wind: 5.9 km/h
+  Humidity: 88%
+
+Time: 2025-04-22T03:00
+  Temp: 10.6°C
+  Precipitation: 0.00 mm
+  Wind: 6.6 km/h
+  Humidity: 87%
+
+Time: 2025-04-22T04:00
+  Temp: 10.6°C
+  Precipitation: 0.00 mm
+  Wind: 5.9 km/h
+  Humidity: 87%
+
+
+------------------------------
+
+==== Colchester ====
+Forecast for Colchester:
+
+Time: 2025-04-22T00:00
+  Temp: 9.4°C
+  Precipitation: 0.00 mm
+  Wind: 9.4 km/h
+  Humidity: 89%
+
+Time: 2025-04-22T01:00
+  Temp: 8.8°C
+  Precipitation: 0.00 mm
+  Wind: 7.9 km/h
+  Humidity: 91%
+
+Time: 2025-04-22T02:00
+  Temp: 8.3°C
+  Precipitation: 0.00 mm
+  Wind: 7.9 km/h
+  Humidity: 92%
+
+Time: 2025-04-22T03:00
+  Temp: 8.1°C
+  Precipitation: 0.00 mm
+  Wind: 7.3 km/h
+  Humidity: 92%
+
+Time: 2025-04-22T04:00
+  Temp: 7.6°C
+  Precipitation: 0.00 mm
+  Wind: 6.5 km/h
+  Humidity: 93%
+
+
+------------------------------
+
+==== Otawa ====
+Forecast for Otawa:
+
+Time: 2025-04-22T00:00
+  Temp: 17.5°C
+  Precipitation: 0.40 mm
+  Wind: 9.9 km/h
+  Humidity: 95%
+
+Time: 2025-04-22T01:00
+  Temp: 17.9°C
+  Precipitation: 0.80 mm
+  Wind: 12.3 km/h
+  Humidity: 95%
+
+Time: 2025-04-22T02:00
+  Temp: 17.8°C
+  Precipitation: 0.80 mm
+  Wind: 13.8 km/h
+  Humidity: 94%
+
+Time: 2025-04-22T03:00
+  Temp: 17.7°C
+  Precipitation: 2.70 mm
+  Wind: 11.7 km/h
+  Humidity: 94%
+
+Time: 2025-04-22T04:00
+  Temp: 17.5°C
+  Precipitation: 1.30 mm
+  Wind: 14.7 km/h
+  Humidity: 94%
+
+
+------------------------------
+
+==== Otawa ====
+Forecast for Otawa:
+
+Time: 2025-04-22T00:00
+  Temp: 17.5°C
+  Precipitation: 0.40 mm
+  Wind: 9.9 km/h
+  Humidity: 95%
+
+Time: 2025-04-22T01:00
+  Temp: 17.9°C
+  Precipitation: 0.80 mm
+  Wind: 12.3 km/h
+  Humidity: 95%
+
+Time: 2025-04-22T02:00
+  Temp: 17.8°C
+  Precipitation: 0.80 mm
+  Wind: 13.8 km/h
+  Humidity: 94%
+
+Time: 2025-04-22T03:00
+  Temp: 17.7°C
+  Precipitation: 2.70 mm
+  Wind: 11.7 km/h
+  Humidity: 94%
+
+Time: 2025-04-22T04:00
+  Temp: 17.5°C
+  Precipitation: 1.30 mm
+  Wind: 14.7 km/h
+  Humidity: 94%
+
+
+------------------------------
+
+==== Otawa ====
+Forecast for Otawa:
+
+Time: 2025-04-22T00:00
+  Temp: 17.5°C
+  Precipitation: 0.40 mm
+  Wind: 9.9 km/h
+  Humidity: 95%
+
+Time: 2025-04-22T01:00
+  Temp: 17.9°C
+  Precipitation: 0.80 mm
+  Wind: 12.3 km/h
+  Humidity: 95%
+
+Time: 2025-04-22T02:00
+  Temp: 17.8°C
+  Precipitation: 0.80 mm
+  Wind: 13.8 km/h
+  Humidity: 94%
+
+Time: 2025-04-22T03:00
+  Temp: 17.7°C
+  Precipitation: 2.70 mm
+  Wind: 11.7 km/h
+  Humidity: 94%
+
+Time: 2025-04-22T04:00
+  Temp: 17.5°C
+  Precipitation: 1.30 mm
+  Wind: 14.7 km/h
+  Humidity: 94%
+
+
+------------------------------
+
+==== Okinawa ====
+Forecast for Okinawa:
+
+Time: 2025-04-22T00:00
+  Temp: 22.8°C
+  Precipitation: 0.00 mm
+  Wind: 12.6 km/h
+  Humidity: 85%
+
+Time: 2025-04-22T01:00
+  Temp: 23.2°C
+  Precipitation: 0.00 mm
+  Wind: 13.0 km/h
+  Humidity: 82%
+
+Time: 2025-04-22T02:00
+  Temp: 24.1°C
+  Precipitation: 0.00 mm
+  Wind: 13.6 km/h
+  Humidity: 77%
+
+Time: 2025-04-22T03:00
+  Temp: 25.4°C
+  Precipitation: 0.00 mm
+  Wind: 14.2 km/h
+  Humidity: 73%
+
+Time: 2025-04-22T04:00
+  Temp: 26.3°C
+  Precipitation: 0.00 mm
+  Wind: 15.5 km/h
+  Humidity: 69%
+
+
+------------------------------
+
+==== Stratford ====
+Forecast for Stratford:
+
+Time: 2025-04-22T00:00
+  Temp: 24.8°C
+  Precipitation: 0.00 mm
+  Wind: 25.7 km/h
+  Humidity: 14%
+
+Time: 2025-04-22T01:00
+  Temp: 21.7°C
+  Precipitation: 0.00 mm
+  Wind: 18.2 km/h
+  Humidity: 20%
+
+Time: 2025-04-22T02:00
+  Temp: 17.9°C
+  Precipitation: 0.00 mm
+  Wind: 15.5 km/h
+  Humidity: 25%
+
+Time: 2025-04-22T03:00
+  Temp: 16.2°C
+  Precipitation: 0.00 mm
+  Wind: 15.9 km/h
+  Humidity: 27%
+
+Time: 2025-04-22T04:00
+  Temp: 14.8°C
+  Precipitation: 0.00 mm
+  Wind: 16.7 km/h
+  Humidity: 30%
+
+
+------------------------------
+
+==== Otawa ====
+Forecast for Otawa:
+
+Time: 2026-07-31T00:00
+  Temp: 29.3°C
+  Precipitation: 0.00 mm
+  Wind: 1.6 km/h
+  Humidity: 75%
+
+Time: 2026-07-31T01:00
+  Temp: 30.0°C
+  Precipitation: 0.00 mm
+  Wind: 3.6 km/h
+  Humidity: 75%
+
+Time: 2026-07-31T02:00
+  Temp: 30.2°C
+  Precipitation: 0.00 mm
+  Wind: 1.9 km/h
+  Humidity: 72%
+
+Time: 2026-07-31T03:00
+  Temp: 31.2°C
+  Precipitation: 0.00 mm
+  Wind: 2.2 km/h
+  Humidity: 69%
+
+Time: 2026-07-31T04:00
+  Temp: 30.7°C
+  Precipitation: 0.00 mm
+  Wind: 4.6 km/h
+  Humidity: 72%
+
+
+------------------------------
+
+==== Otawa ====
+Forecast for Otawa:
+
+Time: 2026-07-31T00:00
+  Temp: 29.3°C
+  Precipitation: 0.00 mm
+  Wind: 1.6 km/h
+  Humidity: 75%
+
+Time: 2026-07-31T01:00
+  Temp: 30.0°C
+  Precipitation: 0.00 mm
+  Wind: 3.6 km/h
+  Humidity: 75%
+
+Time: 2026-07-31T02:00
+  Temp: 30.2°C
+  Precipitation: 0.00 mm
+  Wind: 1.9 km/h
+  Humidity: 72%
+
+Time: 2026-07-31T03:00
+  Temp: 31.2°C
+  Precipitation: 0.00 mm
+  Wind: 2.2 km/h
+  Humidity: 69%
+
+Time: 2026-07-31T04:00
+  Temp: 30.7°C
+  Precipitation: 0.00 mm
+  Wind: 4.6 km/h
+  Humidity: 72%
+
+
+------------------------------
+
+==== New york city ====
+Forecast for New york city:
+
+Time: 2026-07-31T00:00
+  Temp: 22.1°C
+  Precipitation: 0.00 mm
+  Wind: 10.5 km/h
+  Humidity: 87%
+
+Time: 2026-07-31T01:00
+  Temp: 21.5°C
+  Precipitation: 0.00 mm
+  Wind: 5.6 km/h
+  Humidity: 90%
+
+Time: 2026-07-31T02:00
+  Temp: 20.9°C
+  Precipitation: 0.00 mm
+  Wind: 2.6 km/h
+  Humidity: 90%
+
+Time: 2026-07-31T03:00
+  Temp: 21.5°C
+  Precipitation: 0.00 mm
+  Wind: 5.2 km/h
+  Humidity: 90%
+
+Time: 2026-07-31T04:00
+  Temp: 20.4°C
+  Precipitation: 0.00 mm
+  Wind: 5.6 km/h
+  Humidity: 91%
+
+
+------------------------------
+
+====  Barcelona ====
+Forecast for  Barcelona:
+
+Time: 2026-07-31T00:00
+  Temp: 24.8°C
+  Precipitation: 0.00 mm
+  Wind: 3.3 km/h
+  Humidity: 79%
+
+Time: 2026-07-31T01:00
+  Temp: 24.4°C
+  Precipitation: 0.00 mm
+  Wind: 3.7 km/h
+  Humidity: 75%
+
+Time: 2026-07-31T02:00
+  Temp: 24.1°C
+  Precipitation: 0.00 mm
+  Wind: 3.7 km/h
+  Humidity: 74%
+
+Time: 2026-07-31T03:00
+  Temp: 23.7°C
+  Precipitation: 0.00 mm
+  Wind: 3.8 km/h
+  Humidity: 72%
+
+Time: 2026-07-31T04:00
+  Temp: 23.5°C
+  Precipitation: 0.00 mm
+  Wind: 4.3 km/h
+  Humidity: 72%
+
+
+------------------------------
+
