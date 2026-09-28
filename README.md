@@ -22,6 +22,7 @@ During development I learned how to work with external APIs, parse JSON data, st
 - Weather alerts
 
 ## Screenshots
+## Main interface
 
 ## Running the Project
 1. Clone the repository.
