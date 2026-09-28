@@ -25,17 +25,19 @@ During development I learned how to work with external APIs, parse JSON data, st
 ## Main interface
 ![Main interface](screenshots/main-interface.png)
 
-## Weather data
+## Current weather data
 ![Weather data](screenshots/city-current-weather-example.png)
 
+## Forecast data
 ![Weather data](screenshots/city-forecast-example.png)
 
 ## Forecast history
 ![Forecast history tab](screenshots/forecast_history.png)
 
+
 ![Forecast history text file updates](screenshots/forecast_history_2.png)
 
-## API code
+## Key API code
 ![API code](screenshots/api-code_1.png)
 
 ![API code](screenshots/api-code_2.png)
